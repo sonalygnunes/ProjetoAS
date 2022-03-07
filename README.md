@@ -3,9 +3,10 @@
 Membros:
 
 - Sonaly Katly Garcia Nunes
-- Hiago Willyam Lacerda Araújo
+- Hiago Willyam Araújo Lacerda
 - Gabriel Cavalcante Leandro de Lima
 - Maria das Graças Soares Costa
+- Roberta Felix da Silva
 
 # Introdução
 
