@@ -16,7 +16,7 @@ E como mencionado pela Agenda 2030 da Organização das Nações Unidas (ONU) �
 Á vista disso, o nosso projeto é focado no consumo susténtavel de água.
 
 <p align="center">
-  <img width="650" src="assets/fluario.gif">
+  <img width="250" src="assets/fluario2.gif">
 </p>
 
 # Fluário
@@ -25,3 +25,6 @@ O Fluário é um sistema de inteligência artificial que tem por objetivo, auxil
 
 Com ele, o usuário poderá quantificar o gasto de águal utilizado mensalmente e qual a quantidade de água necessária para realizar as atividades do contidiano. Ademais, poderá direcionar as águas utilizadas para sistemas de reuso, que irão ser direcionadas á sistemas de irrigação familiar.
 
+<p align="center">
+  <img width="250" src="assets/fluario.gif">
+</p>
