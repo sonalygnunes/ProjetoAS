@@ -1,4 +1,4 @@
-# ProjetoAS
+# Projeto de Análise de Sistemas
 
 Membros:
 
@@ -22,9 +22,9 @@ E como mencionado pela [Agenda 2030 da Organização das Nações Unidas (ONU)](
 
 # Fluário
 
-O Fluário é um sistema de inteligência artificial que tem por objetivo, auxiliar os usuários a terem um consumo de água mais sustentável. 
+O Fluário é um sistema de inteligência artificial que tem por objetivo, auxiliar os usuários a terem um consumo racional de água. 
 
-Com ele, o usuário poderá quantificar o gasto de água utilizado mensalmente e qual a quantidade de água necessária para realizar as atividades do contidiano. Ademais, poderá direcionar as águas utilizadas para sistemas de reuso, que irão ser encaminhadas à sistemas de irrigação familiar.
+Com ele, o usuário poderá quantificar o gasto de água utilizado mensalmente e a quantidade de água necessária para realizar as atividades do contidiano. Ademais, poderá direcionar as águas utilizadas para sistemas de reuso, que irão ser encaminhadas à sistemas de irrigação familiar.
 
 <p align="center">
   <img width="250" src="assets/fluario.gif">
