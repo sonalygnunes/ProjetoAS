@@ -25,7 +25,7 @@ E como mencionado pela [Agenda 2030 da Organização das Nações Unidas (ONU)](
 
 O usuário deverá se cadastrar no sistema inserindo suas informações, que serão protegidas com recursos de segurança. Após cadastrado, ele poderá logar e sempre que tiver necessidade de realizar uma atividade diária que envolve recursos hídricos, ele consegue cadastrar no app e nosso sistema irá direcionar para ele a quantidade necessária para efetuá-la com sucesso.
 
-Com o Flutuário, você pode gerar relatórios de seu consumo diário baseado em suas atividades cadastradas e terá acesso a uma base de conhecimento que irá incentivar ao usuário cada vez mais, aderir um consumo racional.
+Com o Fluário, você pode gerar relatórios de seu consumo diário baseado em suas atividades cadastradas e terá acesso a uma base de conhecimento que irá incentivar ao usuário cada vez mais, aderir um consumo racional.
 
 A inovação do Fluário é seu sistema de Inteligência Artificial permite que o usuário se comunique sem nenhum clique em seu dispositivo, basta dizer. "Ôh Fluário, me ajuda aqui!" e ele prontamente irá responder para ajudar com toda excelência. 
 
@@ -42,7 +42,7 @@ A inovação do Fluário é seu sistema de Inteligência Artificial permite que 
   <img width="250" src="assets/agua.gif">
 </p>
 
-# Desenvoledores
+# Desenvoldores
 
 - Gabriel Cavalcanti Leandro de Lima
 - Maria das Graças Soares da Costa
