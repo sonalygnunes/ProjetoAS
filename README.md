@@ -1,12 +1,12 @@
-# Projeto de Análise de Sistemas
+# Fluário
 
-Membros:
+O Fluário é um sistema de inteligência artificial que tem por objetivo, auxiliar os usuários a terem um consumo racional de água. 
 
-- Gabriel Cavalcanti Leandro de Lima
-- Maria das Graças Soares da Costa
-- Hiago Willyam Araújo Lacerda
-- Sonaly Katly Garcia Nunes
-- Roberta Felix da Silva
+Com ele, o usuário poderá quantificar o gasto de água utilizado mensalmente e a quantidade de água necessária para realizar as atividades diárias.
+
+<p align="center">
+  <img width="250" src="assets/fluario.gif">
+</p>
 
 # Introdução
 
@@ -20,15 +20,14 @@ E como mencionado pela [Agenda 2030 da Organização das Nações Unidas (ONU)](
   <img width="250" src="assets/fluario2.gif">
 </p>
 
-# Fluário
 
-O Fluário é um sistema de inteligência artificial que tem por objetivo, auxiliar os usuários a terem um consumo racional de água. 
+# Como utilizar o aplicativo?
 
-Com ele, o usuário poderá quantificar o gasto de água utilizado mensalmente e a quantidade de água necessária para realizar as atividades do contidiano.
+O usuário deverá se cadastrar no sistema inserindo suas informações, que serão protegidas com recursos de segurança. Após cadastrado, ele poderá logar e sempre que tiver necessidade de realizar uma atividade diária que envolve recursos hídricos, ele consegue cadastrar no app e nosso sistema irá direcionar para ele a quantidade necessária para efetuá-la com sucesso.
 
-<p align="center">
-  <img width="250" src="assets/fluario.gif">
-</p>
+Com o Flutuário, você pode gerar relatórios de seu consumo diário baseado em suas atividades cadastradas e terá acesso a uma base de conhecimento que irá incentivar ao usuário cada vez mais, aderir um consumo racional.
+
+A inovação do Fluário é seu sistema de Inteligência Artificial permite que o usuário se comunique sem nenhum clique em seu dispositivo, basta dizer. "Ôh Fluário, me ajuda aqui!" e ele prontamente irá responder para ajudar com toda excelência. 
 
 # Funcionalidades do Fluário.
 
@@ -39,10 +38,14 @@ Com ele, o usuário poderá quantificar o gasto de água utilizado mensalmente e
 - Envia notificações para usuário, alertando que o limite de água informada, está perto de se atingir.
 - Base de conhecimento com artigos, instruindo a aderir um consumo racional.
 
-# Como utilizar o aplicativo?
+# Desenvoledores
 
-O usuário deverá se cadastrar no sistema inserindo suas informações, que serão protegidas com recursos de segurança. Após cadastrado, ele poderá logar e sempre que tiver necessidade de realizar uma atividade diária que envolve recursos hídricos, ele consegue cadastrar no app e nosso sistema irá direcionar para ele a quantidade necessária para efetuá-la com sucesso.
+- Gabriel Cavalcanti Leandro de Lima
+- Maria das Graças Soares da Costa
+- Hiago Willyam Araújo Lacerda
+- Sonaly Katly Garcia Nunes
+- Roberta Felix da Silva
 
-Com o Flutuário, você pode gerar relatórios de seu consumo diário baseado em suas atividades cadastradas e terá acesso a uma base de conhecimento que irá incentivar ao usuário cada vez mais, aderir um consumo racional.
-
-A inovação do Fluário é seu sistema de Inteligência Artificial permite que o usuário se comunique sem nenhum clique em seu dispositivo, basta dizer. "Ôh Fluário, me ajuda aqui!" e ele prontamente irá responder para ajudar com toda excelência. 
+<p align="center">
+  <img width="250" src="assets/agua.png">
+</p>
