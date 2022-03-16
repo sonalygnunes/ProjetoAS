@@ -38,6 +38,10 @@ A inovação do Fluário é seu sistema de Inteligência Artificial permite que 
 - Envia notificações para usuário, alertando que o limite de água informada, está perto de se atingir.
 - Base de conhecimento com artigos, instruindo a aderir um consumo racional.
 
+<p align="center">
+  <img width="250" src="assets/agua.gif">
+</p>
+
 # Desenvoledores
 
 - Gabriel Cavalcanti Leandro de Lima
@@ -45,7 +49,3 @@ A inovação do Fluário é seu sistema de Inteligência Artificial permite que 
 - Hiago Willyam Araújo Lacerda
 - Sonaly Katly Garcia Nunes
 - Roberta Felix da Silva
-
-<p align="center">
-  <img width="250" src="assets/agua.png">
-</p>
